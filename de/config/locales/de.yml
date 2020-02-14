@@ -1,11 +1,11 @@
 de:
   add_list: Füge Liste
   add_list_sub: Liste speichern
-  add_task: Save task
-  are_you_sure: Are you sure?
-  delete_list: Delete list
-  intro: Demo Application
+  add_task: Aufgabe speichern
+  are_you_sure: Bist du sicher?
+  delete_list: Liste löschen
+  intro: Demo-Anwendung
   my_simple_todo_app: My Todo App
-  name: List name
-  new_task: New Task
-  title: Phrase Demo Application
+  name: Listenname
+  new_task: Neue Aufgabe
+  title: Phrase Demo-Anwendung
